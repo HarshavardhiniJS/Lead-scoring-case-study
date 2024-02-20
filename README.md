@@ -6,13 +6,13 @@ The typical lead conversion rate at X education is very poor, only around 30%.
 To make this process more efficient, the company wishes to identify the most potential leads, also known as ‘Hot Leads’. X education wants to know most promising leads. Build a model that assign lead score to every lead and thus help in identifying ‘Hot Leads’. Deployment of the model for future use.
 
 Steps Followed:
-Source Data & Data Cleanup.
-Exploratory Data Analysis
-Splitting Data into Test-Train Datasets
-Feature Scaling
-Model Building
-Model Evaluation
-Applying the best model in Test data
+  Source Data & Data Cleanup,
+  Exploratory Data Analysis,
+  Splitting Data into Test-Train Datasets,
+  Feature Scaling,
+  Model Building,
+  Model Evaluation and
+  Model Predictions using Test data
 
 Details of files given:
 “Lead_Scoring_Project.ipynb”: The python file showing codes and the data analysis and solution Model.
